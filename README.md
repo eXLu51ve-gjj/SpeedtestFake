@@ -2,6 +2,13 @@
 
 Модифицируйте результаты тестирования скорости интернета на speedtest.net в реальном времени.
 
+## Скриншоты 📸
+
+<p align="center">
+  <img src="screen.png" alt="Интерфейс приложения" width="45%">
+  <img src="screen2.png" alt="Результат работы" width="45%">
+</p>
+
 ## Скачать 📥
 
 **[Скачать SpeedtestFake.exe](https://github.com/eXLu51ve-gjj/SpeedtestFake/releases/tag/SpeedtestFake.v1.0)**
