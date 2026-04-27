@@ -4,7 +4,7 @@
 
 ## Скачать 📥
 
-**[Скачать SpeedtestFake.exe](https://github.com/your-username/SpeedtestFake/releases)**
+**[Скачать SpeedtestFake.exe](https://github.com/eXLu51ve-gjj/SpeedtestFake/releases)**
 
 ## Быстрый старт 🎯
 
